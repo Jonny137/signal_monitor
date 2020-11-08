@@ -1,10 +1,10 @@
 ## Signal Monitor (SnapApp)
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
-     alt="Markdown Node icon"
+     alt="Markdown Python icon"
      height="50px"
 />&nbsp;&nbsp;&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRGesepiNVa_x1Fhrbl0JJT_biAhQ-psmFvA&usqp=CAU"
-     alt="Markdown Node icon"
+     alt="Markdown Pyside icon"
      height="50px"
 />
 
